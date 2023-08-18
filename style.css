@@ -49,6 +49,7 @@ form{
     font-size: 14px;
     border-radius: 5px;
     margin-left: 3px;
+    display: block;
 }
 
 .searchResults{
@@ -99,7 +100,7 @@ form{
     border-radius: 5px;
     margin: 30px auto;
     text-align: center;
-    cursor: pointer;
+    cursor: pointer ;
     display: none;
 }
 
